@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Soma(a int, b int) int {
+func Soma(a int, b int) int {  
     return a + b
 } 
 
