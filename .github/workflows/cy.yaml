@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: false
-          tags: DanielLevi22/CI:latest
+          tags: daniellevi22/ci:latest
